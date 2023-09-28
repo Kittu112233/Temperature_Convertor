@@ -1,2 +1,2 @@
 # Temperature_Convertor
-Simple temperature convertor web_page by bharat intern
+Simple temperature convertor web_page for bharat intern
